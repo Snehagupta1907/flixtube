@@ -26,7 +26,7 @@ Before running the Flixtube application, make sure you have the following instal
 
 To get started with Flixtube, follow these steps:
 
-1. Clone the repository:git clone https://github.com/your-username/flixtube.git
+1. Clone the repository:git clone https://github.com/Snehagupta1907/flixtube.git
 2. Navigate to the project directory:cd flixtube
 3. Install the dependencies:npm i
 
