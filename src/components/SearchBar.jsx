@@ -17,7 +17,7 @@ const SearchBar = () => {
     >
       <input className="search-bar" placeholder="Search..." value="" onChange={()=>{}}/>
       <IconButton>
-        <Search type="submit" sx={{ p:'10px',color:'#67158E'}}/>
+        <Search type="submit" sx={{ p:'2px',color:'#67158E'}}/>
       </IconButton>
     </Paper>
   );
