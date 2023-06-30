@@ -2,6 +2,8 @@
 
 Video Streaming platform built using ReactJS, RapidAPI, and Material-UI (MUI). This project aims to replicate some of the core functionalities of YouTube, allowing users to search and watch videos.
 
+Deployed using Netlify:-"https://flixtube19.netlify.app/"
+
 ## Features
 
 - User-friendly interface resembling YouTube's design.
